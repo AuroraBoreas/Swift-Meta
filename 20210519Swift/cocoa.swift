@@ -1,0 +1,11 @@
+import cocoa
+
+
+/*
+
+[ variable ]
+===
+
+===
+
+*/ 
